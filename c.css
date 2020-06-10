@@ -1,0 +1,16 @@
+body{
+background:red;}
+section{width:400px;
+hight:200px;
+background:red;
+
+}
+div{width:600px;
+hight:300px;
+}
+ul {
+    display: block ruby;
+    list-style: none;
+    padding: revert;
+    
+}
